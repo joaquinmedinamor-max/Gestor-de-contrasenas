@@ -1,0 +1,9 @@
+# Bases de datos locales
+vaultx.db
+
+# Llaves de encriptación
+llave_maestra.key
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
