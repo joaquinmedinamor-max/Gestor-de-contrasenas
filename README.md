@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Gestor-de-contrase-as-local-
+# Gestor de contrasenas local
 =======
 # 🔒 VaultPassword - Gestor de Contraseñas Local
 
